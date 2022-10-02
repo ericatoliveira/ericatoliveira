@@ -1,6 +1,6 @@
 ![](https://github.com/ericatoliveira/ericatoliveira/blob/main/capareadme.png)
 
-- 👋 Hi, I’m **@ericatoliveira**
+- 👋 Hi, I’m **Erica Oliveira**
 - :boy: I´m **Derek´s** mom, and there's nothing more important than this little boy.
 - 👀 I’m interested in learn every day and become the best professional that I can be.
 - :heart_eyes: In love with software testing!
