@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m **Erica Oliveira**
 - :boy: I´m **Derek´s** mom, and there's nothing more important than this little boy.
+- :family: I'm also a wife, cooker, cleaner, driver...
 - 👀 I’m interested in learn every day and become the best professional that I can be.
 - :heart_eyes: In love with software testing!
 - :green_book: I’m currently learning 'The Three Aspects of Software Quality' - Chappell.
