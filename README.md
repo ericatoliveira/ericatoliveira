@@ -1,4 +1,4 @@
-![](https://github.com/ericatoliveira/ericatoliveira/blob/main/capa-readme.png)
+![](https://github.com/ericatoliveira/ericatoliveira/blob/main/readme-capa.png)
 
 - 👋 Hi, I’m @ericatoliveira
 - 👀 I’m interested in learn every day and become the best professional that I can be.
