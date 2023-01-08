@@ -9,6 +9,7 @@
 - :books: Updating on manual tests, automated, mobile and integration.
 - 💞️ I’m looking to collaborate with the expansion of knowledge, so that we can be a society of greater equality and evolution.
 - :arrow_right: How to reach me: https://www.linkedin.com/in/ericatoliveira/
+- Portfolio: https://ericatoliveira.github.io/
 
 <!---
 ericatoliveira/ericatoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
